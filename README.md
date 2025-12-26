@@ -4,11 +4,12 @@ Sou um dev em formação que curte aprender na prática, testar ideias e constru
 Uso este GitHub como um espaço para experimentar, errar, acertar e ver minha própria evolução ao longo do tempo.
 
 ---
-<img src="assets/avatar/Guanixim.png" width="120" align="right" />
+<img src="assets/avatar/Guanixim.png" width="160" align="right" />
 <p>
 Nada aqui é só teoria — tudo faz parte do meu processo real de aprendizado.
 </p>
 <br clear="right" />
+
 ---
 
 ## 🛠️ Tecnologias que tenho usado
