@@ -28,3 +28,7 @@ Nada aqui é só teoria — tudo faz parte do meu processo real de aprendizado.
 ## 🌱 Em constante evolução
 
 Este perfil muda conforme eu aprendo coisas novas, crio projetos e melhoro os antigos.
+
+---
+
+![Snake animation](https://github.com/alan-favoreto/alan-favoreto/blob/output/github-contribution-grid-snake.svg)
