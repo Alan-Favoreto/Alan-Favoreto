@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Alan
 
-<!--
-**Alan-Favoreto/Alan-Favoreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um dev em formação que curte aprender na prática, testar ideias e construir projetos enquanto evoluo minhas habilidades.  
+Uso este GitHub como um espaço para experimentar, errar, acertar e ver minha própria evolução ao longo do tempo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nada aqui é só teoria — tudo faz parte do meu processo real de aprendizado.
+
+---
+
+## 🛠️ Tecnologias que tenho usado
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+</p>
+
+---
+
+## 🌱 Em constante evolução
+
+Este perfil muda conforme eu aprendo coisas novas, crio projetos e melhoro os antigos.
